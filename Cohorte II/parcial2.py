@@ -9,9 +9,3 @@ df.head()
 
 missing_data = df.isnull()
 missing_data.head()
-
-
-
-
-
-
